@@ -1,8 +1,13 @@
-Hi, I'm Ayush 👋
+# Hi, I'm Ayush
 
-- Learning Linux
-- Interested in Cybersecurity
-- Exploring Networking and Ethical Hacking
+Building toward network security & threat intelligence
+research over 18 months. Starting from basics. 
+Documenting everything.
 
-Current Goal:
-Become a cybersecurity professional.
+**Currently learning:**
+- Python fundamentals
+- Networking protocols (TCP/IP)
+- How packets and traffic work
+
+**Goal:** Work with cybersecurity researchers on 
+real threat detection problems.
